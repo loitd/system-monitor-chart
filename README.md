@@ -6,7 +6,7 @@ Charts for the System Monitoring
 - 	Multiple types of chart: line, pie, column, ...
 
 #Demo
-* Please note that all the information is from my test local machine
+* Please note that all the information is from my test local machine and you need to initialize database with demo values to make this website works.
 
 ![System Monitor Chart @loitd demo 1](https://cloud.githubusercontent.com/assets/444086/14061104/1bcd3d04-f3aa-11e5-8d69-0a5bd0678482.jpg)
 
