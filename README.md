@@ -1,12 +1,15 @@
 # system-monitor-chart
-Charts for the System Monitoring
+### Charts for the System Monitoring
 -	Using PHP CodeIgnitor Framework to get data from Oracle database and show all the information as charts on demand.
 -	Using HighChart and Google Chart Library.
 - 	Mobile Friendly with Boostrap Framework
 - 	Multiple types of chart: line, pie, column, ...
 
-#Demo
+### Demo
 * Please note that all the information is from my test local machine and you need to initialize database with demo values to make this website works.
+
+### License
+This repository content is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ![System Monitor Chart @loitd demo 1](https://cloud.githubusercontent.com/assets/444086/14061104/1bcd3d04-f3aa-11e5-8d69-0a5bd0678482.jpg)
 
